@@ -1,7 +1,4 @@
 ﻿  stdafx.cpp
-  Tile.cpp
-  ChessProject.cpp
-  BoardDisplay.cpp
-  Board.cpp
-  Generating Code...
-  ChessProject.vcxproj -> C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\ChessProject\Debug\ChessProject.exe
+c:\users\gebruiker\documents\chess2dotnull\chessproject\chessproject\board.h(10): error C2143: syntax error: missing ';' before '*'
+c:\users\gebruiker\documents\chess2dotnull\chessproject\chessproject\board.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\gebruiker\documents\chess2dotnull\chessproject\chessproject\board.h(10): error C2238: unexpected token(s) preceding ';'

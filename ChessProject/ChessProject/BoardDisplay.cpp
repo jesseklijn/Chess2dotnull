@@ -6,7 +6,7 @@
 
 BoardDisplay::BoardDisplay()
 {
-	printf("Joe");
+	//printf("Joe");
 }
 
 
